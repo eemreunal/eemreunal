@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend developing.<br>🌱 I’m currently learning Swift.<br>💬 Ask me about anything.<br>⚡
+🔭 I’m currently working on Frontend developing & UX/UI design.<br>🌱 I’m currently learning Swift.<br>💬 Ask me about anything.<br>⚡
 
 
 ## 🌐 Socials:
